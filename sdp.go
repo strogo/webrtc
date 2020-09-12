@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/pion/logging"
-	"github.com/pion/sdp/v2"
+	"github.com/pion/sdp/v3"
 )
 
 // trackDetails represents any media source that can be represented in a SDP
